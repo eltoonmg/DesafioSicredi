@@ -1,0 +1,8 @@
+Simulacoes\DeletarSimulacoes.class
+Restricao\Restricoes.class
+Simulacoes\CriarSimulacoes.class
+Simulacoes\AlterarSimulacoes.class
+Core\BaseTest.class
+Core\Constantes.class
+SuiteDeTestes\Suite.class
+Simulacoes\ConsultarSimulacoes.class
